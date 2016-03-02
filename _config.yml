@@ -1,7 +1,7 @@
 name: GiveFix
 favicon: null
-layout_spectrum: 0.5649239595513791
-typography_spectrum: 0.6219688369892538
+layout_spectrum: 1
+typography_spectrum: 0.39467
 title: GiveFix
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffce54'
+    - '#000000'
+    - '#ffffff'
+    - '#a6a6a6'
+    - '#393939'
   brandStrength: 0.2965633668936789
   lightness: 0.1149961487390101
   saturation: 0.2992500117979944
